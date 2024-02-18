@@ -53,3 +53,5 @@ out/
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+# Allure
+allure-results/
